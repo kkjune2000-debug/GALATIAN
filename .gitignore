@@ -1,0 +1,14 @@
+# Local source material and extraction files
+source-pdfs/
+tmp/
+*.ocr.txt
+*.ocr.json
+
+# Office and operating-system temporary files
+~$*
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
